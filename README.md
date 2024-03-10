@@ -1,3 +1,30 @@
+# Ihana Fahmy - 40209686
+## Calculator App
+### Step 1 - CFG
+![Lab7 - SOEN345 drawio](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ihanaaa/assets/99277414/8dc6ef5a-4b42-43cc-b8be-3f61dd606a4e)
+
+### Step 2 - Node Coverage
+### Step 3 - Edge Coverage
+### Step 4 - Edge-Pair Coverage
+### Step 5 - EFG
+
+## Omni-Notes App
+### Step 1 - CFG
+### Step 2 - Node Coverage
+### Step 3 - Edge Coverage
+### Step 4 - Edge-Pair Coverage
+### Step 5 - EFG
+
+
+
+
+
+
+
+
+
+
+<br/><br/>
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
