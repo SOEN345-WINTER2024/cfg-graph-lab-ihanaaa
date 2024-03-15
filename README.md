@@ -247,14 +247,6 @@
 ### Step 5 - EFG
 
 
-
-
-
-
-
-
-
-
 <br/><br/>
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
