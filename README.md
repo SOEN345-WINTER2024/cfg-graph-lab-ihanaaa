@@ -166,6 +166,7 @@
 [1,17,21,23,18]<br/>
 
 ### Step 5 - EFG
+![Lab7 - SOEN345-Page-3 drawio](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ihanaaa/assets/99277414/6377b873-4747-4954-8fc1-943dd1e6d59b)
 
 ## Omni-Notes App
 ### Step 1 - CFG
@@ -245,6 +246,7 @@
 [1,3,4,6,7,8,10,11]<br/>
 [1,3,4,6,7,9,10,11]<br/>
 ### Step 5 - EFG
+
 
 
 <br/><br/>
