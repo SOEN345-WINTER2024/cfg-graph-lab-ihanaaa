@@ -246,8 +246,7 @@
 [1,3,4,6,7,8,10,11]<br/>
 [1,3,4,6,7,9,10,11]<br/>
 ### Step 5 - EFG
-
-
+![Lab7 - SOEN345-Page-4 drawio](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ihanaaa/assets/99277414/958e2903-7998-4765-9006-76091a245bd9)
 
 <br/><br/>
 # Soot Tutorial
