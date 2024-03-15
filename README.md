@@ -169,6 +169,8 @@
 
 ## Omni-Notes App
 ### Step 1 - CFG
+![Lab7 - SOEN345-Page-2 drawio](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ihanaaa/assets/99277414/56b00a19-9b88-48e1-8e1e-9debb987bd34)
+
 ### Step 2 - Node Coverage
 ### Step 3 - Edge Coverage
 ### Step 4 - Edge-Pair Coverage
